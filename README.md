@@ -8,7 +8,8 @@ A visually appealing recipe app built using Jetpack Compose.
 ✅ Jetpack Compose – Fully built using modern UI toolkit.
 
 📸 Screenshots
-![WhatsApp Image 2025-04-04 at 00 54 20_4b29bb33](https://github.com/user-attachments/assets/e100b7ac-49d8-4aa7-a7d9-6a7726119908) ![WhatsApp Image 2025-04-04 at 00 54 21_7e8ecdee](https://github.com/user-attachments/assets/f06829fe-6e37-45a4-abaa-7f3cb368dcd7) ![WhatsApp Image 2025-04-04 at 00 54 21_089fd10c](https://github.com/user-attachments/assets/3a10b4ec-90fc-4d2d-80fd-e94ebd8a2a36)
+![WhatsApp Image 2025-04-04 at 01 00 55_9761dc64](https://github.com/user-attachments/assets/a1075a95-2f9d-4479-9c64-460e7dce5d3b)
+
 
 🛠️ Tech Stack
 Kotlin – For development
