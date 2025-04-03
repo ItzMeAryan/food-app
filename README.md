@@ -18,12 +18,15 @@ Coil – For image loading
 Navigation Component – For seamless screen transitions
 
 🚀 Getting Started
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/MyRecipeApp.git
 cd MyRecipeApp
+
 2️⃣ Open in Android Studio
 Open Android Studio
 Select "Open an Existing Project" and choose the cloned folder.
+
 3️⃣ Run the App
 Connect an emulator or device.
 Click Run ▶ in Android Studio.
@@ -37,6 +40,7 @@ Click Run ▶ in Android Studio.
  ┣ 📂 composables/   # Reusable UI components
  ┣ 📂 models/        # Data classes (Category, API Response)
  ┣ 📝 README.md      # This file
+
 
 📜 License
 This project is free to use. Modify and share as needed! 😊
